@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts2", "SQL Server Scripts2\SQL Server Scripts2.ssmssqlproj", "{947BB23C-6093-403B-8BEE-9C1D3828588B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{947BB23C-6093-403B-8BEE-9C1D3828588B}.Default|Default.ActiveCfg = Default
+		{727AE1B7-C9DD-437C-BBDF-A7A3B3EF8A08}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
